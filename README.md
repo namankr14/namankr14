@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naman Kumar</h1>
-<h3 align="center">A passionate quick learner who is always eager to learn new and fascinating stuffs *makes me look cool* **helping computers behave since FOREVER**💻 behave</h3>
+<h3 align="center">A passionate quick learner who is always eager to learn new and fascinating stuffs *makes me look cool*
+**helping computers behave since FOREVER**💻</h3>
 
 - 🔭 I’m currently working on **Crypto Website**
 
